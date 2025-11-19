@@ -1,0 +1,42 @@
+# Root .gitignore for repository
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Windows / OneDrive temp
+~$*
+Thumbs.db
+Desktop.ini
+OneDriveTemp/
+
+# Logs
+*.log
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Misc
+.pytest_cache/
+.mypy_cache/
+.venv/
