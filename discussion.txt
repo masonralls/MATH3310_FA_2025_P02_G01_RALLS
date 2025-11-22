@@ -1,0 +1,14 @@
+Mason: repo management, initial code author
+Anna: annotations, edits, scribe
+
+What do we believe we did well on the assignment?
+    We are getting more used to the code and what it means. The annotations using the markdown cells were helpful to really understand what was happening in the code.
+
+What was the most challenging part of the assignment?
+    We had some problems with the plots and getting them to look nice. There were some errors in the code that were a bit difficult to figure out as well.
+
+What would have made this assignment a better experience?
+    We could have started on the assignment a few days earlier. It may have been nice to have some more time to perfect it.
+
+What do we need help with?
+    We could use more discussion about feature importance and how to use it since it was the most recent topic discussed in class. Some review and more practice with it could help solidify the concept.
